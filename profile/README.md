@@ -1,4 +1,4 @@
-![](./banner.png)
+![](https://raw.githubusercontent.com/GimPITang3/.github/main/profile/banner.png)
 
 # GimPITang3
 
